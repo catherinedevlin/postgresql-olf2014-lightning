@@ -1,0 +1,4 @@
+ipython[notebook]
+ipython_sql
+psycopg2
+git+https://github.com/damianavila/live_reveal.git
